@@ -1,0 +1,1 @@
+# Minimize-the-LCS-Power
